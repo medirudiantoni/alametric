@@ -24,7 +24,7 @@ const Login = () => {
 
   const handleLogin = async () => {
     try {
-      const response = await fetch("src/assets/users/users.json");
+      const response = await fetch("https://alametric-chi.vercel.app/data/users/users.json");
       if (!response.ok) {
         throw new Error("no response");
       }
@@ -73,7 +73,7 @@ const Login = () => {
                   Kode Kandidat
                 </label>
                 <input
-                  type="password"
+                  type="text"
                   id="kode-kandidat"
                   className="py-2 px-4 my-2 w-full rounded-xl bg-slate-200"
                   placeholder="Masukkan Kode Kandidat"

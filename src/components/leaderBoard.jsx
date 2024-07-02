@@ -4,7 +4,7 @@ import RankCard from "./rankCard";
 const LeaderBoard = () => {
   const [ isUsers, setUsers ] = useState([]);
   useEffect(() => {
-    fetch("http://localhost:5173/data/users/users.json").then(res => res.json()).then(res => setUsers(res))
+    fetch("https://alametric-chi.vercel.app/data/users/users.json").then(res => res.json()).then(res => setUsers(res))
   }, [isUsers]);
   const rankUsers = isUsers.sort((a, b) => b.points - a.points);
   return (

@@ -35,6 +35,7 @@ const Quiz = () => {
             question={question}
             options={options}
             correctAnswer={correctAnswer}
+            star={true}
           />
         </div>
       </div>

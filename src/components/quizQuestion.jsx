@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const QuizQuestion = ({ question, options, correctAnswer }) => {
+const QuizQuestion = ({ question, options, correctAnswer, star }) => {
   const [selectedOption, setSelectedOption] = useState(null);
   const [isSubmitted, setIsSubmitted] = useState(false);
 
@@ -14,7 +14,7 @@ const QuizQuestion = ({ question, options, correctAnswer }) => {
 
   return (
     <div>
-      <h2 className="text-lg mb-4">{question}</h2>
+      <h2 className="text-lg mb-4">{question} {star && <span className="text-red-800 font-bold">*</span>}</h2>
       <form className="flex flex-col gap-5">
         {options.map((option, index) => (
           <div key={index}>
