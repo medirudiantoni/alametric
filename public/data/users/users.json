@@ -18,6 +18,12 @@
         "password": 123
     },
     {
+        "name": "Susi",
+        "image": "https://alametric-chi.vercel.app/images/users/fitri.svg",
+        "points": 200,
+        "password": 352924
+    },
+    {
         "name": "Bagus",
         "image": "https://alametric-chi.vercel.app/images/users/bagus.svg",
         "points": 180,
@@ -60,9 +66,39 @@
         "password": 123
     },
     {
+        "name": "Admin",
+        "image": "https://alametric-chi.vercel.app/images/users/subagja.svg",
+        "points": 130,
+        "password": 352924
+    },
+    {
         "name": "User",
         "image": "https://alametric-chi.vercel.app/images/users/subagja.svg",
         "points": 130,
         "password": 123
+    },
+    {
+        "name": "User",
+        "image": "https://alametric-chi.vercel.app/images/users/faiz.svg",
+        "points": 130,
+        "password": 352924
+    },
+    {
+        "name": "Medi Rudiantoni",
+        "image": "https://alametric-chi.vercel.app/images/users/faiz.svg",
+        "points": 130,
+        "password": 352924
+    },
+    {
+        "name": "Medi Rudiant",
+        "image": "https://alametric-chi.vercel.app/images/users/bagus.svg",
+        "points": 130,
+        "password": 352924
+    },
+    {
+        "name": "Medi",
+        "image": "https://alametric-chi.vercel.app/images/users/ujang.svg",
+        "points": 130,
+        "password": 352924
     }
 ]
