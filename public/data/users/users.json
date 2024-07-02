@@ -1,67 +1,67 @@
 [
     {
         "name": "Rahmat",
-        "image": "http://localhost:5173/images/users/bagus.svg",
+        "image": "https://alametric-chi.vercel.app/images/users/bagus.svg",
         "points": 250,
         "password": 123
     },
     {
         "name": "Siti Nur",
-        "image": "http://localhost:5173/images/users/siti%20nur.svg",
+        "image": "https://alametric-chi.vercel.app/images/users/siti%20nur.svg",
         "points": 240,
         "password": 123
     },
     {
         "name": "Susi",
-        "image": "http://localhost:5173/images/users/susi.svg",
+        "image": "https://alametric-chi.vercel.app/images/users/susi.svg",
         "points": 200,
         "password": 123
     },
     {
         "name": "Bagus",
-        "image": "http://localhost:5173/images/users/bagus.svg",
+        "image": "https://alametric-chi.vercel.app/images/users/bagus.svg",
         "points": 180,
         "password": 123
     },
     {
         "name": "Subagja",
-        "image": "http://localhost:5173/images/users/subagja.svg",
+        "image": "https://alametric-chi.vercel.app/images/users/subagja.svg",
         "points": 170,
         "password": 123
     },
     {
         "name": "Fitri",
-        "image": "http://localhost:5173/images/users/fitri.svg",
+        "image": "https://alametric-chi.vercel.app/images/users/fitri.svg",
         "points": 165,
         "password": 123
     },
     {
         "name": "Ujang",
-        "image": "http://localhost:5173/images/users/ujang.svg",
+        "image": "https://alametric-chi.vercel.app/images/users/ujang.svg",
         "points": 150,
         "password": 123
     },
     {
         "name": "Melani",
-        "image": "http://localhost:5173/images/users/melani.svg",
+        "image": "https://alametric-chi.vercel.app/images/users/melani.svg",
         "points": 145,
         "password": 123
     },
     {
         "name": "Faiz",
-        "image": "http://localhost:5173/images/users/faiz.svg",
+        "image": "https://alametric-chi.vercel.app/images/users/faiz.svg",
         "points": 130,
         "password": 123
     },
     {
         "name": "Admin",
-        "image": "http://localhost:5173/images/users/bagus.svg",
+        "image": "https://alametric-chi.vercel.app/images/users/bagus.svg",
         "points": 130,
         "password": 123
     },
     {
         "name": "User",
-        "image": "http://localhost:5173/images/users/subagja.svg",
+        "image": "https://alametric-chi.vercel.app/images/users/subagja.svg",
         "points": 130,
         "password": 123
     }
