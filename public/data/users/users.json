@@ -52,5 +52,17 @@
         "image": "http://localhost:5173/images/users/faiz.svg",
         "points": 130,
         "password": 123
+    },
+    {
+        "name": "Admin",
+        "image": "http://localhost:5173/images/users/bagus.svg",
+        "points": 130,
+        "password": 123
+    },
+    {
+        "name": "User",
+        "image": "http://localhost:5173/images/users/subagja.svg",
+        "points": 130,
+        "password": 123
     }
 ]
