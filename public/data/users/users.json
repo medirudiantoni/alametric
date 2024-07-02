@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Rahmat",
+        "image": "http://localhost:5173/images/users/bagus.svg",
+        "points": 250
+    },
+    {
+        "name": "Siti Nur",
+        "image": "http://localhost:5173/images/users/siti%20nur.svg",
+        "points": 240
+    },
+    {
+        "name": "Susi",
+        "image": "http://localhost:5173/images/users/susi.svg",
+        "points": 200
+    },
+    {
+        "name": "Bagus",
+        "image": "http://localhost:5173/images/users/bagus.svg",
+        "points": 180
+    },
+    {
+        "name": "Subagja",
+        "image": "http://localhost:5173/images/users/subagja.svg",
+        "points": 170
+    },
+    {
+        "name": "Fitri",
+        "image": "http://localhost:5173/images/users/fitri.svg",
+        "points": 165
+    },
+    {
+        "name": "Ujang",
+        "image": "http://localhost:5173/images/users/ujang.svg",
+        "points": 150
+    },
+    {
+        "name": "Melani",
+        "image": "http://localhost:5173/images/users/melani.svg",
+        "points": 145
+    },
+    {
+        "name": "Faiz",
+        "image": "http://localhost:5173/images/users/faiz.svg",
+        "points": 130
+    }
+]
